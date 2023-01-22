@@ -1,4 +1,4 @@
-</Div>
+</div>
 <div class="card fixed-bottom">
   <div class="card-header">
     <h6>Kamil</h6>
