@@ -1,0 +1,29 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  display: flexbox;
+}
+
+#app {
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 30px;
+}
+.input {
+  padding: 10px;
+  width: 300px;
+}
+
+li {
+  list-style: none;
+}
