@@ -29,7 +29,7 @@ if(!isset($_SESSION['admin_username'])){
             AR & Laporan
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/Asset/AR.php">Accounting Report(AR)</a></li>
+            <li><a class="dropdown-item" href="AR.php">Accounting Report(AR)</a></li>
             <li><a class="dropdown-item" href="Weekly.php">Mingguan</a></li>
             <li><a class="dropdown-item" href="Monthly.php">Bulanan</a></li>
           </ul>
